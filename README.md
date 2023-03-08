@@ -17,3 +17,5 @@ A5：理解指针分析！！！
 A6：无
 
 A7：不能使用自身语句的 InFact，想办法拿到对应Store/Load的语句InFact。
+
+A8：无
